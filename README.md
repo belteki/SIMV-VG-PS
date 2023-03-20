@@ -3,9 +3,7 @@ Jupyter Notebooks used for processing and analysis of ventilator parameters and 
 
 This repository contains the Python code used for data processing, statistical analysis and visualization described in the following paper:
 
-Balajthy A, Balazs G, Kovacs T, Belteki G. Synchronized intermittent mandatory ventilation with volume guarantee and pressure support in neonates: Detailed analysis of ventilator parameters. *Pediatr Pulmonol.* 2023 Mar 17. doi: 10.1002/ppul.26384. Epub ahead of print. PMID: 36929855.
-
-Link to the paper: [https://fn.bmj.com/content/early/2022/06/14/archdischild-2021-323498](https://fn.bmj.com/content/early/2022/06/14/archdischild-2021-323498)
+Balajthy A, Balazs G, Kovacs T, Belteki G. Synchronized intermittent mandatory ventilation with volume guarantee and pressure support in neonates: Detailed analysis of ventilator parameters. *Pediatr Pulmonol.* 2023 Mar 17. doi: 10.1002/ppul.26384. Epub ahead of print. PMID: 36929855. [Link to the paper](https://onlinelibrary.wiley.com/doi/10.1002/ppul.26384)
 
 Contact: gusztav.belteki@addenbrookes.nhs.uk; gbelteki@aol.com
 
@@ -20,7 +18,7 @@ only supplementary material.
 This code can be viewed in any web browser. If the code is displayed (rendered)
 in Github, copy and paste the URL (web adress) of the Notebook into [nbviewer](https://nbviewer.jupyter.org) for a read-only display.
 
-To run the code, you can use Jupyter install locally on your computer or [Google Colab](https://colab.research.google.com).
+To run the code, you can use Jupyter installed locally on your computer or [Google Colab](https://colab.research.google.com).
 
 Raw data are not shared but the user can run the code on his or her own data obtained in the same format.
 
@@ -36,8 +34,7 @@ matplotlib version: 3.6.2
 
 NumPy version: 1.21.5
 
-I recommend downloading these packages using the freely availably Anaconda
-built: https://www.continuum.io/downloads
+I recommend downloading these packages using the freely availably Anaconda built: https://www.continuum.io/downloads
 
 ____
 
